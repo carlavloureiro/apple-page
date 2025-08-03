@@ -1,5 +1,4 @@
 # Réplica da página comercial da Apple
-![Logo Apple](https://github.com/carlavloureiro/apple-page/assets/116118483/e0b7413f-69a7-4b19-958c-499f79adefc7)
 
 Link do projeto: https://carlavloureiro.github.io/apple-page/
 
